@@ -1,7 +1,3 @@
-# Projeto_03
-✍️ 
-
-### Projeto_01
 
 O Projeto_03 Landing page para demonstração do estudo. Foi desenvolvido  com HTML5 e CSS3 com o objetivo de demostrar minha evolução nos estudos.
 
