@@ -11,7 +11,7 @@ Esta Landing Page exibe uma maneira de você mostrar seu trabalho também pode s
 
 ### Instalação 
 
-Clone este repositório usando git clone https://github.com/Leticiafrnc/Projeto_03.git ou clique em Code/Download ZIP.
+Clone este repositório usando git clone https://github.com/Leticiafrnc/pagina-empresa-de-tecnologia.git ou clique em Code/Download ZIP.
 Clique no arquivo "index.HTML" e veja a aplicação.
 
 ### Observação: Se abrir a aplicação no celular, tablet ou qualquer tipo de tela a aplicação se adapta.
