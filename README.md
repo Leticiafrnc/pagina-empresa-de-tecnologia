@@ -1,5 +1,5 @@
 
-O Projeto_03 Landing page para demonstração. Foi desenvolvido  com HTML5 e CSS3 com o objetivo de demostrar minha evolução nos estudos.
+A Página Empresa de Tecnologia é uma  Landing page para demonstração. Foi desenvolvido  com HTML5 e CSS3 com o objetivo de demostrar minha evolução nos estudos.
 
 ![Screenshot](Projeto03.gif)
 
